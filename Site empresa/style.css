@@ -132,11 +132,13 @@ body {
     margin-left: 40%;
 }
 .tempresa{
-    margin-left: 35%;
+    margin-left: 15%;
 }
+
+/*------------CONTEUDO SECUNDARIO EMPRESA--------------*/
 .quadro{
     border: 2px solid #000;
-    padding: 20px;
+    padding: 35px;
     margin: 30px;
     width: 300px;
     background-color: #f9f9f9;
@@ -146,15 +148,40 @@ body {
     margin-left: 20px;
     margin-bottom: px;
 }
-/*------------CONTEUDO SECUNDARIO EMPRESA--------------*/
 .imagem3{
     margin-left: 4%;
     margin-top: 10px;
     width: 10%;
 }
 
+.quadro2{
+    border: 2px solid #000;
+    padding: 25px;
+    margin: 30px;
+    width: 300px;
+    background-color: #f9f9f9;
+    margin-top: -13%;
+    margin-left: 30%;
+}
+.cliente2{
+    margin-left: 20px;
+    margin-bottom: px;
+}
+.imagem4{
+    margin-left: 4%;
+    margin-top: 10px;
+    width: 10%;
+}
+/*----------------CONTEUDO PRINCIPAL contato-------------*/
+.comunicar{
+    margin-left: 35%;
+    font-size: 200%;
+}
 
-
+/*------------------------servicos principal----------------*/
+.tsprincipal{
+    margin-left: 40%;
+}
 
 
 
